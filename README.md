@@ -3,7 +3,9 @@
 - 📫 Mail: ducduyleo@gmail.com
 - 📫 Organization mail: 19521434@gm.uit.edu.vn
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hdduytran&show_icons=true&count_private=true)  
+<img align="left" alt="TruongChiDien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hdduytran&show_icons=true&theme=tokyonight" />
+<img align="left" alt="TruongChiDien's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdduytran&layout=compact" />
+
 
 
 <!---
