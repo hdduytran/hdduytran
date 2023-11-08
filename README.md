@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Duy Tran from [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+- 👋 Hi, I’m Duy Tran
+- 🌐 Visit my blog: duytran.id.vn
+- Bachelor of Computer Sciencer from [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 - 👀 My major is Computer Science
 - 📫 Mail: ducduyleo@gmail.com
 - 📫 Organization mail: 19521434@gm.uit.edu.vn
 
-<img align="left" alt="TruongChiDien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hdduytran&show_icons=true&theme=tokyonight" />
-<img align="left" alt="TruongChiDien's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdduytran&layout=compact" />
+<img align="left" alt="DuyTran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hdduytran&show_icons=true&theme=tokyonight" />
+<img align="left" alt="DuyTran's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdduytran&layout=compact" />
 
 
 
