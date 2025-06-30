@@ -4,7 +4,7 @@
 - 📫 Mail: ducduyleo@gmail.com
 
 <img align="left" alt="DuyTran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hdduytran&show_icons=true&theme=tokyonight" /> 
-<img align="left" alt="DuyTran's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdduytran&layout=compact" />
+<img align="left" alt="DuyTran's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdduytran&layout=compact&theme=tokyonight" />
 
 
 
